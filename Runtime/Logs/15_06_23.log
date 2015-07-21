@@ -1,0 +1,12 @@
+[ 2015-06-23T16:13:14+08:00 ] 123.136.6.164 /weiphp2.0.1202/index.php?s=/addon/Vote/Vote/join.html
+ERR: 1054:Unknown column 'next_id' in 'field list'
+ [ SQL语句 ] : SELECT `next_id` FROM `wp_vote` WHERE ( id=1 ) LIMIT 1  
+
+[ 2015-06-23T21:13:54+08:00 ] 222.166.31.75 /weiphp2.0.1202/index.php?s=/addon/Vote/Vote/join.html
+ERR: 1054:Unknown column 'next_id' in 'field list'
+ [ SQL语句 ] : SELECT `next_id` FROM `wp_vote` WHERE ( id=1 ) LIMIT 1  
+
+[ 2015-06-23T21:41:03+08:00 ] 123.136.6.164 /weiphp2.0.1202/index.php?s=/addon/Vote/Vote/join.html
+ERR: 1054:Unknown column 'next_id' in 'field list'
+ [ SQL语句 ] : SELECT `next_id` FROM `wp_vote` WHERE ( id=1 ) LIMIT 1  
+
